@@ -13,4 +13,4 @@ for R and [Flask](http://flask.pocoo.org) for Python.
 I created this app that pulls data for stock prices for the past month of [Quandl](https://www.google.com/url?q=https%3A%2F%2Fwww.quandl.com%2Fdata%2FWIKI&sa=D&sntz=1&usg=AFrqEzdSDoXsG4-eGvhdKTEjkTaHL1PF1g)
 and presents different indicators in an interactive plot. The plot uses the [Bokeh package](http://bokeh.pydata.org/en/latest/) and the app was deployed using [Heroku](https://www.heroku.com). 
 
-Check out the final result [here](http://spynx.herokuapp.com). The code is on [Github](https://github.com/bartholdja/bartholdja.github.io).
+Check out the final result [here](http://spynx.herokuapp.com). The code is on [Github](https://github.com/bartholdja/stockPriceTicker).
