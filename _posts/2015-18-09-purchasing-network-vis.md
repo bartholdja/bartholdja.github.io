@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Launched skeleton of webpage for Capstone Project"
+title: "Visualisation of an Amazon product co-purchasing network"
 date: 2015-09-09
 ---
 
